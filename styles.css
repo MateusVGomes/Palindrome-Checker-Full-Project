@@ -58,3 +58,21 @@ body {
     align-content: center;
 
 }
+.labelFormat{
+  display:grid;  
+  grid-template-rows:15px 15px 20px ;
+  grid-gap:10px;
+  justify-content: center;
+  align-content: center;
+}
+
+.execution{
+display:grid;
+
+}
+.buttonStyle{
+border-radius: 5px;
+border-color:#6969B3;
+border:0;
+box-shadow:0 0 15px 4px rgba(0,0,0,0.06);
+}

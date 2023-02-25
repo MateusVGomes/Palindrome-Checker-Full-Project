@@ -1,2 +1,2 @@
 # Palindrome-Checker-Full-Project
-Implementação do projetode checar se uma palavra é palindromo mas agora com HTML e CSS integrado
+Este projeto é a parte completa do outro projeto que checa se é um palindromo ou não
