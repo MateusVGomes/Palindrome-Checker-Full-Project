@@ -1,0 +1,60 @@
+* {
+    margin: 0;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    background-color: #8195C6;
+}
+
+.navBar {
+    display: flex;
+    width: 100vw;
+    height: 6vh;
+    background-color: #6969B3;
+    align-items: center;
+    justify-content: center;
+}
+
+.main {
+    height: 70vh;
+    padding-top:50px;
+    display: grid;
+    grid-template-rows: 20px 200px 20px;
+    grid-row-gap: 10vh;
+    justify-content: center;
+    align-content: start;
+
+
+}
+
+.mainExplanation {
+    display: grid;
+    grid-gap:10px;
+    align-items: center;
+    justify-content: center;
+}
+
+.mainExample {
+    display: grid;
+    grid-gap:10px;
+    align-items: center;
+    justify-content: center;
+}
+
+.textContent {
+    display: grid;
+    grid-template-columns: 200px 300px;
+    grid-column-gap: 50px;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+}
+
+.title {
+    display: grid;
+    justify-content: center;
+    align-content: center;
+
+}
